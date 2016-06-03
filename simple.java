@@ -16,7 +16,7 @@ class simple{
           simple g=new simple();
             simple h=new simple();
 System.out.println("HEllow");
+System.out.println("new brach");
 
   }
 }
-System.out.println("new brach");
